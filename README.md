@@ -31,11 +31,7 @@ resume-analyser/
 ## Setup
 
 ```bash
-<<<<<<< HEAD
 git clone https://github.com/khayati628/resume-analyser
-=======
-git clone https://github.com/<your-username>/resume-analyser.git
->>>>>>> 5a3d41720784b47890e77369b55655d82b011e19
 cd resume-analyser
 
 python -m venv venv
